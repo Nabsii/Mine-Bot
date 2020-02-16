@@ -5,7 +5,7 @@
 > Regular Updates!
 > Chat Spammer (Still in beta)!
 
-#How to use
+# How to use
 
 > 1. install node.js from https://nodejs.org/en/download/
 

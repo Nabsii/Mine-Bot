@@ -5,8 +5,11 @@
 # Features
 
 > Bypassing Captcha!
+
 > Simple commands!
-> Regular Updates!
+
+> A* Path finding!
+
 > Chat Spammer (Still in beta)!
 
 # How to use

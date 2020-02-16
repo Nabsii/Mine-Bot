@@ -18,14 +18,16 @@
 
 > 2. Install any IDE where you can edit code.
 
-> 3. Create new folder and open Command Promt there.
+> 3. Create new folder and drag the files there!
 
-> 4. Type npm install mineflayer
+> 4. open Command Promt there.
 
-> 5. Type npm install mineflayer-tps
+> 5. Type npm install mineflayer
 
-> 6. Type npm install mineflayer-navigate
+> 6. Type npm install mineflayer-tps
 
-> 7. after its done type to run the bot node.js bot.js (gmail/username) (password)
+> 7. Type npm install mineflayer-navigate
+
+> 8. after its done type to run the bot node.js bot.js (gmail/username) (password)
   
-> 8. Have Fun!
+> 9. Have Fun!

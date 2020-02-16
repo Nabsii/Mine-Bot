@@ -1,3 +1,7 @@
+# Warning!
+
+:Warning: This project has been published under MIT license :Warning:
+
 # Features
 
 > Bypassing Captcha!

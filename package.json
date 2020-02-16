@@ -1,0 +1,8 @@
+{
+  "name": "mine-bot",
+  "version": "1.0.1",
+  "description": "Minecraft bot",
+  "main": "bot.js",
+  "author": "KeilaPallo / Nabsi#9822",
+  "license": "MIT"
+}

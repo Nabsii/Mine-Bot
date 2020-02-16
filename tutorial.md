@@ -1,6 +1,6 @@
-# Warning!
+# Caugtion
 
-:Warning: This project has been published under MIT license :Warning:
+> This project has been published under MIT license!
 
 # Features
 

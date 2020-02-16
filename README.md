@@ -21,6 +21,6 @@
 
 > 7. after its done drag bot.js to the folder.
 
-> 8. to run type node.js bot.js <gamil/username> <password>
+> 8. to run type node.js bot.js (gmail/username) (password)
   
 > 9. Have Fun!
